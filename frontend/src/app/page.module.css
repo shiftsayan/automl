@@ -1,0 +1,15 @@
+.main {
+  background-color: '#fafafa';
+  margin: 6rem;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: white;
+  border-radius: 1rem;
+  padding: 2rem;
+}
